@@ -25,7 +25,7 @@
 
 <h3 align="left">TryHackMe Profile</h3>
 <p>
-[Go To My profile](https://tryhackme.com/p/ahmedkamal)
+- 👨‍ <a href="https://tryhackme.com/p/ahmedkamal">Go To My TryHackMe profile</a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedkamal.png" alt="TryHackMe">
 
 </p>
