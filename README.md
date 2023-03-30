@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/ahmed-kamal-el-maghraby/Images/main/pngwing.com%20(2).png" alt="AcountPhoto" height="400"  align="center">
+<img align="center" src="https://raw.githubusercontent.com/ahmed-kamal-el-maghraby/Images/main/pngwing.com%20(2).png" alt="AcountPhoto" height="300" >
 
 <h1 align="center">Hi 👋, I'm Ahmed Kamal Elmagraby</h1>
 <h3 align="center">Cyber Security Engineer And Software Developer</h3>
