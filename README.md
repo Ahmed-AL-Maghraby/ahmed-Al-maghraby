@@ -26,6 +26,8 @@
 <h3 align="left">TryHackMe Profile</h3>
 <p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedkamal.png" alt="TryHackMe">
+  
+  <img src="https://tryhackme.com/ahmedkamal/badges/investigations" alt="TryHackMe">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
