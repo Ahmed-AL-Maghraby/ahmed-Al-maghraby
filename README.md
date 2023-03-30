@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmed.kamal.mo7ammed@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11oLUlsAvs3NfzDmEu6urNCy3VikGnTK3/view?usp=drive_open](https://drive.google.com/file/d/11oLUlsAvs3NfzDmEu6urNCy3VikGnTK3/view?usp=drive_open)
+- 📄 Know about my experiences [https://drive.google.com/file/MY_CV](https://drive.google.com/file/d/11oLUlsAvs3NfzDmEu6urNCy3VikGnTK3/view?usp=drive_open)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +25,7 @@
 
 <h3 align="left">TryHackMe Profile</h3>
 <p>
+[Go To My profile](https://tryhackme.com/p/ahmedkamal)
 <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedkamal.png" alt="TryHackMe">
 
 </p>
