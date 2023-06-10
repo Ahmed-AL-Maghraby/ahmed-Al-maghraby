@@ -24,7 +24,7 @@
 <a href="https://twitter.com/ahmed_emoghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_emoghraby" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Ahmed-AL-Maghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed-AL-Maghraby" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed.kamal.el.maghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.kamal.el.maghraby" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_kamal_el_maghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_kamal_el_maghraby" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmed_kamal_el_maghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ahmed-AL-Maghraby" height="30" width="40" /></a>
 </p>
 
 
@@ -41,14 +41,14 @@
 
 
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-kamal-el-maghraby&show_icons=true&locale=en&layout=tokyonight" alt="ahmed-kamal-el-maghraby" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-AL-Maghraby&show_icons=true&locale=en&layout=tokyonight" alt="Ahmed-AL-Maghraby" /></p>
 -->
 
 
 
-![Ahmed Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-kamal-el-maghraby&show_icons=true&theme=radical)
+![Ahmed Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-AL-Maghraby&show_icons=true&theme=radical)
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-kamal-el-maghraby&" alt="ahmed-kamal-el-maghraby" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-AL-Maghraby&" alt="Ahmed-AL-Maghraby" /></p>
