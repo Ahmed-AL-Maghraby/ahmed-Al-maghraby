@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/ahmed-kamal-el-maghraby/Images/main/pngegg.png" alt="AcountPhoto" height="300" >
+<img src="https://raw.githubusercontent.com/Ahmed-AL-Maghraby/Images/main/pngegg.png" alt="AcountPhoto" height="300" >
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Kamal Elmagraby</h1>
 <h3 align="center">Cyber Security Engineer And Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-kamal-el-maghraby&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-kamal-el-maghraby" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-AL-Maghraby&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-AL-Maghraby" /> </p>
 
 - 🌱 I’m currently learning **Digital Forensics and Incident Response**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmed-kamal-el-maghraby](https://github.com/ahmed-kamal-el-maghraby)
+- 👨‍💻 All of my projects are available at [https://github.com/Ahmed-AL-Maghraby](https://github.com/Ahmed-AL-Maghraby)
 
 - 📝 I regularly write articles on [information-security.org](information-security.org)
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmed_emoghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_emoghraby" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-kamal-el-maghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-kamal-el-maghraby" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ahmed-AL-Maghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed-AL-Maghraby" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed.kamal.el.maghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.kamal.el.maghraby" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_kamal_el_maghraby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_kamal_el_maghraby" height="30" width="40" /></a>
 </p>
